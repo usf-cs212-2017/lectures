@@ -15,3 +15,4 @@ We are using [problem 1](https://projecteuler.net/problem=1) to refresh Java syn
 > Find the sum of all the multiples of 3 or 5 below 1000.
 
 When the max is 10, the solution is 23. When the max is 100, the solution is 2318.
+
