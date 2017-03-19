@@ -1,0 +1,182 @@
+[17:04:17:994 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:17:996 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:026 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:026 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:049 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:049 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:049 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:050 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:057 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:057 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:070 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:070 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:070 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:070 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:077 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:077 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:094 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:094 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:094 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:094 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:099 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:099 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:107 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:107 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:107 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:108 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:112 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:112 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:120 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:121 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:121 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:121 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:125 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:125 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:133 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:133 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:134 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:134 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:138 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:138 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:146 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:146 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:146 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:147 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:153 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:153 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:162 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:162 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:162 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:162 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:167 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:167 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:176 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:176 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:176 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:177 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:181 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:181 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:190 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:190 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:190 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:190 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:194 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:194 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:202 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:202 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:203 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:203 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:207 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:207 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:218 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:218 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:218 debug] CharacterCompare.java@36 main: Comparing text/pg1661.txt and text/pg2701.txt sequentially.
+[17:04:18:221 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:226 debug] CharacterFinder.java@58 main: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:226 debug] CharacterFinder.java@34 main: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:235 debug] CharacterFinder.java@58 main: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:235 debug] CharacterCompare.java@49 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:236 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:237 debug] CharacterFinder.java@34 Thread-1: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:238 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:238 debug] CharacterFinder.java@34 Thread-2: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:242 debug] CharacterFinder.java@58 Thread-1: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:248 debug] CharacterFinder.java@58 Thread-2: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:248 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:248 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:248 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:249 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:249 debug] CharacterFinder.java@34 Thread-3: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:249 debug] CharacterFinder.java@34 Thread-4: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:254 debug] CharacterFinder.java@58 Thread-3: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:259 debug] CharacterFinder.java@58 Thread-4: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:259 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:259 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:259 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:259 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:259 debug] CharacterFinder.java@34 Thread-5: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:260 debug] CharacterFinder.java@34 Thread-6: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:265 debug] CharacterFinder.java@58 Thread-5: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:269 debug] CharacterFinder.java@58 Thread-6: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:269 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:269 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:269 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:270 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:270 debug] CharacterFinder.java@34 Thread-7: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:270 debug] CharacterFinder.java@34 Thread-8: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:278 debug] CharacterFinder.java@58 Thread-7: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:282 debug] CharacterFinder.java@58 Thread-8: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:282 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:283 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:283 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:283 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:283 debug] CharacterFinder.java@34 Thread-9: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:283 debug] CharacterFinder.java@34 Thread-10: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:287 debug] CharacterFinder.java@58 Thread-9: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:292 debug] CharacterFinder.java@58 Thread-10: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:292 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:292 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:292 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:293 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:293 debug] CharacterFinder.java@34 Thread-11: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:293 debug] CharacterFinder.java@34 Thread-12: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:298 debug] CharacterFinder.java@58 Thread-11: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:301 debug] CharacterFinder.java@58 Thread-12: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:302 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:302 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:302 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:302 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:302 debug] CharacterFinder.java@34 Thread-14: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:302 debug] CharacterFinder.java@34 Thread-13: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:307 debug] CharacterFinder.java@58 Thread-13: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:311 debug] CharacterFinder.java@58 Thread-14: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:311 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:311 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:311 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:311 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:311 debug] CharacterFinder.java@34 Thread-16: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:311 debug] CharacterFinder.java@34 Thread-15: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:317 debug] CharacterFinder.java@58 Thread-15: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:321 debug] CharacterFinder.java@58 Thread-16: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:322 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:322 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:322 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:322 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:322 debug] CharacterFinder.java@34 Thread-18: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:322 debug] CharacterFinder.java@34 Thread-17: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:329 debug] CharacterFinder.java@58 Thread-17: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:335 debug] CharacterFinder.java@58 Thread-18: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:335 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:335 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:336 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:336 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:336 debug] CharacterFinder.java@34 Thread-19: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:336 debug] CharacterFinder.java@34 Thread-20: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:343 debug] CharacterFinder.java@58 Thread-19: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:349 debug] CharacterFinder.java@58 Thread-20: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:349 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:349 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:349 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:350 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:350 debug] CharacterFinder.java@34 Thread-22: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:350 debug] CharacterFinder.java@34 Thread-21: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:357 debug] CharacterFinder.java@58 Thread-21: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:363 debug] CharacterFinder.java@58 Thread-22: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:363 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:364 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:364 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:364 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:364 debug] CharacterFinder.java@34 Thread-23: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:364 debug] CharacterFinder.java@34 Thread-24: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:373 debug] CharacterFinder.java@58 Thread-23: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:377 debug] CharacterFinder.java@58 Thread-24: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:377 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:377 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
+[17:04:18:377 debug] CharacterCompare.java@112 main: Comparing text/pg1661.txt and text/pg2701.txt concurrently.
+[17:04:18:377 debug] CharacterCompare.java@123 main: Waiting for threads to complete.
+[17:04:18:377 debug] CharacterFinder.java@34 Thread-26: Searching for "c" in "text/pg2701.txt" (ignore case: true).
+[17:04:18:377 debug] CharacterFinder.java@34 Thread-25: Searching for "c" in "text/pg1661.txt" (ignore case: true).
+[17:04:18:382 debug] CharacterFinder.java@58 Thread-25: Found 11103 instances of "c" in "text/pg1661.txt".
+[17:04:18:386 debug] CharacterFinder.java@58 Thread-26: Found 23120 instances of "c" in "text/pg2701.txt".
+[17:04:18:386 debug] CharacterCompare.java@131 main: Threads finished.
+[17:04:18:386 debug] CharacterCompare.java@137 main: Files "text/pg1661.txt" and "text/pg2701.txt" have a difference of -12017 "c" characters.
