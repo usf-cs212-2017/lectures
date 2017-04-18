@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Mini Adventure!</title>
+    
+    <!-- See http://www.google.com/fonts for free webfonts. //-->
+    <link href='http://fonts.googleapis.com/css?family=Overlock:400,900,400italic' rel='stylesheet' type='text/css'>
+    
+    <style type="text/css">
+    body {
+        font-family: "Overlock";
+        font-size: 12pt;  
+        font-weight: 400;
+    }
+    
+    input {
+        font-size: 16pt;
+        width: 75px;
+    } 
+    
+    .header {
+        font-style: italic;
+    }
+    
+    .message {
+        font-weight: 900;
+    }
+    
+    .debug {
+        font-size: 10pt;
+        font-style: italic;
+        
+        text-align: right;
+        color: #444444;
+    }
+    </style>
+</head>
+
+<body>
+
+<p class="header">
+<a href="http://www.flickr.com/photos/glsmyth/2452008828/" title="House Of Dreams by George L Smyth, on Flickr"><img src="http://farm4.staticflickr.com/3085/2452008828_b3d4e2836a_m.jpg" width="240" height="166" alt="House Of Dreams"></a>
+<br>
+You are famished, and desperately need a good meal. 
+You found an old house, and are searching for something to eat.
+</p> 
+
+<p class="message">
+%1$s
+</p>
+
+<p>
+Where do you want to go next?
+</p>
+
+<form action="%2$s" method="post">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+    <td>&nbsp;</td>
+    <td><input type="submit" name="direction" value="NORTH" %3$s></td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td><input type="submit" name="direction" value="WEST" %4$s></td>
+    <td>&nbsp;</td>
+    <td><input type="submit" name="direction" value="EAST" %5$s></td>
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td><input type="submit" name="direction" value="SOUTH" %6$s></td>
+    <td>&nbsp;</td>
+</tr>
+</table>
+</form>
+
+<p><a href="/">(start over?)</a></p>
+
+<p class="debug">
+session id: %7$s, 
+room: %8$s, 
+direction: %9$s
+</p>
+
+</body>
+</html>
