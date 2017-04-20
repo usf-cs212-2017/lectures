@@ -83,7 +83,7 @@ public class HTTPFetcher {
 
 		// The specification is specific about where to use a new line
 		// versus a carriage return!
-		return String.format("%s %s %s\n" + "Host: %s\n" + "Connection: close\n" + "\r\n", type.name(), resource,
+		return String.format("%s %s %s\r\n" + "Host: %s\r\n" + "Connection: close\r\n" + "\r\n", type.name(), resource,
 				version, host);
 	}
 

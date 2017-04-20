@@ -25,9 +25,9 @@ public class PoorHTTPFetcher {
 		String resource = url.getFile().isEmpty() ? "/" : url.getFile();
 
 		// craft HTTP GET request
-		String request = "GET " + resource + " HTTP/1.1\n";
-		request += "Host: " + host + "\n";
-		request += "Connection: close\n";
+		String request = "GET " + resource + " HTTP/1.1\r\n";
+		request += "Host: " + host + "\r\n";
+		request += "Connection: close\r\n";
 		request += "\r\n";
 
 		// attempt to send/receive request
