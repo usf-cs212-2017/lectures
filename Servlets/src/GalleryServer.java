@@ -26,7 +26,7 @@ public class GalleryServer {
 	public static final int PORT = 8080;
 
 	public static void main(String[] args) throws Exception {
-		Server server = new Server(8080);
+		Server server = new Server(PORT);
 
 		// add static resource holders to web server
 		// this indicates where web files are accessible on the file system
