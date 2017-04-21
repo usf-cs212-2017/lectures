@@ -112,20 +112,20 @@ public class CookieBaseServlet extends HttpServlet {
 	}
 
 	/**
-	 * Gets the cookies form the HTTP request, and maps the cookie key to the
-	 * cookie value.
+	 * Gets the cookies form the HTTP request, and maps the cookie name to the
+	 * cookie object.
 	 *
 	 * @param request
 	 *            - HTTP request from web server
 	 * @return map from cookie key to cookie value
 	 */
-	public Map<String, String> getCookieMap(HttpServletRequest request) {
-		HashMap<String, String> map = new HashMap<>();
+	public Map<String, Cookie> getCookieMap(HttpServletRequest request) {
+		HashMap<String, Cookie> map = new HashMap<>();
 		Cookie[] cookies = request.getCookies();
 
 		if (cookies != null) {
 			for (Cookie cookie : cookies) {
-				map.put(cookie.getName(), cookie.getValue());
+				map.put(cookie.getName(), cookie);
 			}
 		}
 

@@ -1,5 +1,8 @@
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.net.URLDecoder;
+import java.net.URLEncoder;
+import java.nio.charset.StandardCharsets;
 import java.util.Map;
 
 import javax.servlet.ServletException;
@@ -34,26 +37,31 @@ public class CookieIndexServlet extends CookieBaseServlet {
 
 		prepareResponse("Cookies!", response);
 
-		Map<String, String> cookies = getCookieMap(request);
+		Map<String, Cookie> cookies = getCookieMap(request);
 
-		String visitDate = cookies.get(VISIT_DATE);
-		String visitCount = cookies.get(VISIT_COUNT);
+		Cookie visitDate = cookies.get(VISIT_DATE);
+		Cookie visitCount = cookies.get(VISIT_COUNT);
 
 		PrintWriter out = response.getWriter();
 		out.printf("<p>");
 
 		// Update visit count as necessary and output information.
 		if ((visitDate == null) || (visitCount == null)) {
-			visitCount = "0";
+			visitCount = new Cookie(VISIT_COUNT, "0");
+			visitDate = new Cookie(VISIT_DATE, "");
 
 			out.printf("You have never been to this webpage before! ");
 			out.printf("Thank you for visiting.");
 		}
 		else {
-			visitCount = Integer.toString(Integer.parseInt(visitCount) + 1);
+			int count = Integer.parseInt(visitCount.getValue());
+			visitCount.setValue(Integer.toString(count + 1));
 
-			out.printf("You have visited this website %s times. ", visitCount);
-			out.printf("Your last visit was on %s.", visitDate);
+			String decoded = URLDecoder.decode(visitDate.getValue(), StandardCharsets.UTF_8.name());
+			log.info("Encoded: " + visitDate.getValue() + ", Decoded: " + decoded);
+
+			out.printf("You have visited this website %s times. ", visitCount.getValue());
+			out.printf("Your last visit was on %s.", decoded);
 		}
 
 		out.printf("</p>%n");
@@ -62,8 +70,10 @@ public class CookieIndexServlet extends CookieBaseServlet {
 		// This is not a standard header!
 		// Try this in Safari private browsing mode.
 		if (request.getIntHeader("DNT") != 1) {
-			response.addCookie(new Cookie("Visited", getLongDate()));
-			response.addCookie(new Cookie("Count", visitCount));
+			String encoded = URLEncoder.encode(getLongDate(), StandardCharsets.UTF_8.name());
+			visitDate.setValue(encoded);
+			response.addCookie(visitDate);
+			response.addCookie(visitCount);
 		}
 		else {
 			clearCookies(request, response);
