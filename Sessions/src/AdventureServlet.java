@@ -46,13 +46,6 @@ public class AdventureServlet extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 
-		// get rid of favicon requests
-		if (req.getContextPath().endsWith("favicon.ico")) {
-			log.warn("Discarding " + req.getContextPath() + " request.");
-			res.sendError(HttpServletResponse.SC_NOT_FOUND);
-			return;
-		}
-
 		PrintWriter writer = res.getWriter();
 		HttpSession session = req.getSession(true);
 
