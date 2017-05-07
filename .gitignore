@@ -7,3 +7,5 @@ tmp/
 .metadata
 
 .DS_Store
+
+user01.properties
